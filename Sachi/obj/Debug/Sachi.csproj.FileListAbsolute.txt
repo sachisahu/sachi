@@ -1,0 +1,15 @@
+C:\Users\SACHI\source\repos\Sachi\Sachi\bin\Debug\Sachi.exe.config
+C:\Users\SACHI\source\repos\Sachi\Sachi\bin\Debug\Sachi.exe
+C:\Users\SACHI\source\repos\Sachi\Sachi\bin\Debug\Sachi.pdb
+C:\Users\SACHI\source\repos\Sachi\Sachi\obj\Debug\Sachi.csproj.AssemblyReference.cache
+C:\Users\SACHI\source\repos\Sachi\Sachi\obj\Debug\Sachi.Form1.resources
+C:\Users\SACHI\source\repos\Sachi\Sachi\obj\Debug\Sachi.Properties.Resources.resources
+C:\Users\SACHI\source\repos\Sachi\Sachi\obj\Debug\Sachi.csproj.GenerateResource.cache
+C:\Users\SACHI\source\repos\Sachi\Sachi\obj\Debug\Sachi.csproj.CoreCompileInputs.cache
+C:\Users\SACHI\source\repos\Sachi\Sachi\obj\Debug\Sachi.exe
+C:\Users\SACHI\source\repos\Sachi\Sachi\obj\Debug\Sachi.pdb
+C:\Users\SACHI\source\repos\Sachi\Sachi\bin\Debug\EntityFramework.dll
+C:\Users\SACHI\source\repos\Sachi\Sachi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SACHI\source\repos\Sachi\Sachi\bin\Debug\EntityFramework.xml
+C:\Users\SACHI\source\repos\Sachi\Sachi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SACHI\source\repos\Sachi\Sachi\obj\Debug\Sachi.sach.resources
